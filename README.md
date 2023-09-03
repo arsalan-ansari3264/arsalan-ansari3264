@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="./assests/ezgif.com-crop.gif"  width="100%"/>
+  <img src="./assests/arsalan ansari.png"  width="100%"/>
 
 </div>
 
